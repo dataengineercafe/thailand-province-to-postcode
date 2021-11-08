@@ -1,0 +1,78 @@
+province,postcode,zone
+Bangkok,10xxx,Central
+Samut Prakan,10xxx,Central
+Nonthaburi,11xxx,Central
+Pathum Thani,12xxx,Central
+Ayutthaya,13xxx,Central
+Ang Thong,14xxx,Central
+Lop Buri,15xxx,Central
+Sing Buri,16xxx,Central
+Chai Nat,17xxx,Central
+Saraburi,18xxx,Central
+Chonburi,20xxx,Eastern
+Rayong,21xxx,Eastern
+Chanthaburi,22xxx,Eastern
+Trat,23xxx,Eastern
+Chachoengsao,24xxx,Eastern
+Prachin Buri,25xxx,Eastern
+Nakhon Nayok,26xxx,Eastern
+Sa Kaeo,27xxx,Eastern
+Nakhon Ratchasima,30xxx,Northeastern Part 1
+Buriram,31xxx,Northeastern Part 2
+Surin,32xxx,Northeastern Part 3
+Sisaket,33xxx,Northeastern Part 4
+Ubon Ratchathani,34xxx,Northeastern Part 5
+Yasothon,35xxx,Northeastern Part 6
+Chaiyaphum,36xxx,Northeastern Part 7
+Amnat Charoen,37xxx,Northeastern Part 8
+BNueng Kan,38xxx,Northeastern Part 9
+Nong Bua Lamphu,39xxx,Northeastern Part 10
+Khon Kaen,40xxx,Northeastern Part 2
+Udon Thani,41xxx,Northeastern Part 3
+Loei,42xxx,Northeastern Part 4
+Nong Khai,43xxx,Northeastern Part 5
+Maha Sarakham,44xxx,Northeastern Part 6
+Roi Et,45xxx,Northeastern Part 7
+Kalasin,46xxx,Northeastern Part 8
+Sakon Nakhon,47xxx,Northeastern Part 9
+Nakhon Pahom,48xxx,Northeastern Part 10
+Mukdahan,49xxx,Northeastern Part 11
+Chiang Mai,50xxx,Upper Northern
+Lamphun,51xxx,Upper Northern
+Lampang,52xxx,Upper Northern
+Uttaradit,53xxx,Upper Northern
+Phrae,54xxx,Upper Northern
+Nan,55xxx,Upper Northern
+Phayao,56xxx,Upper Northern
+Chiang Rai,57xxx,Upper Northern
+Mae Hong Son,58xxx,Upper Northern
+Nakhon Sawan,60xxx,Lower Northern
+Uthai Thani,61xxx,Lower Northern
+Kamphaeng Phet,62xxx,Lower Northern
+Tak,63xxx,Lower Northern
+Sukhothai,64xxx,Lower Northern
+Phitsanulok,65xxx,Lower Northern
+Phichit,66xxx,Lower Northern
+Phetchabun,67xxx,Lower Northern
+Ratchaburi,70xxx,Lower Central
+Kanchanaburi,71xxx,Lower Central
+Suphan Buri,72xxx,Lower Central
+Nakhon Pathom,73xxx,Lower Central
+Samut Sakhon,74xxx,Lower Central
+Samut Songkhram,75xxx,Lower Central
+Phetcharuri,76xxx,Lower Central
+Prachuap Khiri Khan,77xxx,Lower Central
+Nakhon Si Thammarat,80xxx,Southern
+Krabi,81xxx,Southern
+Phang Nga,82xxx,Southern
+Phuket,83xxx,Southern
+Surat Thani,84xxx,Southern
+Ranong,85xxx,Southern
+Chumphon,86xxx,Southern
+Songkhla,90xxx,Southern Border
+Satun,91xxx,Southern Border
+Trang,92xxx,Southern Border
+Phatthalung,93xxx,Southern Border
+Pattani,94xxx,Southern Border
+Yala,95xxx,Southern Border
+Narathiwat,96xxx,Southern Border
